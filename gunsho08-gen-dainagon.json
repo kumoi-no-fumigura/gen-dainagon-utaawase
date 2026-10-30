@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/gen-dainagon-utaawase",
  "yomi": "げんだいなごんけうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（秋の十題）",
+  "era": "長暦2年（1038）9月13日",
+  "author": "主催 源師房",
+  "desc": "源大納言師房の家で催された歌合。秋夜月・秋風・露・霧・紅葉・雁・鹿など秋の題を左右に一首ずつ番える。判詞はない。"
+ },
  "editions": [
   {
    "pid": "1879502",
